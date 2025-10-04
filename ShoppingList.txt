@@ -2,3 +2,6 @@ Milk
 Bread
 Bananas
 Eggs
+Ice cream
+Fudge
+Chips
